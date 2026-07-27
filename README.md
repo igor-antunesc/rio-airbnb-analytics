@@ -24,8 +24,9 @@ Using Power BI, I built this dashboard to uncover real-world market dynamics, fo
 
 ## 📊 Key Insights & Findings
 1. **Premium Neighborhoods Lead Pricing:** High-end coastal and luxury regions like **Joá** and **Itanhangá** command the highest Average Daily Rates (ADR), significantly outperforming the city baseline due to exclusive properties and high-demand tourism profiles.
-2. **Seasonality & Occupancy Patterns:** The occupancy rate exhibits sharp seasonal shifts throughout the year, reflecting peak holiday tourism periods versus low seasons in Rio de Janeiro's calendar.
-3. **Pricing Stability vs. Demand:** While median booking prices remain relatively steady across certain baseline periods, occupancy rates fluctuate heavily, highlighting optimal windows for dynamic pricing strategies.
+2. **The Copacabana Anomaly:** Surprisingly, **Copacabana**—Rio's most iconic global postcard and high-density tourist hub—did not make the top 15 list of neighborhood pricing metrics analyzed in this specific scope, highlighting a fascinating concentration effect in other micro-regions.
+3. **Counter-Intuitive Seasonality Peak:** While Rio de Janeiro's famous Carnival drives massive tourism spikes in February and March, the data reveals that actual occupancy and stay peaks occur later in **April and May**, pointing to extended shoulder-season preferences or remote work tourism trends.
+4. **Micro-Price Fluctuations:** The analysis uncovered striking stability and minute, cent-level price variations across baseline bookings, proving a high degree of automated or rigid pricing strategies among hosts during specific periods.
 
 ---
 
