@@ -5,7 +5,7 @@ Data analysis and Power BI dashboard for Rio de Janeiro Airbnb market trends
 ## About the Project & Motivation
 As someone based in Brazil, I've always been fascinated by how tourism surges impact our major economic hubs. For this project, I wanted to dive deep into the short-term rental market in **Rio de Janeiro**—one of Latin America's top travel destinations. 
 
-Using Power BI, I built this dashboard to uncover real-world market dynamics, focusing on monthly seasonality, occupancy fluctuations, and average daily rates (ADR) across different neighborhoods.
+Using **Google BigQuery (SQL)** for data engineering and **Power BI** for visualization, this end-to-end analytics project uncovers real-world market dynamics, focusing on monthly seasonality, occupancy fluctuations, and average daily rates (ADR) across different neighborhoods.
 
 ---
 
@@ -15,9 +15,9 @@ Using Power BI, I built this dashboard to uncover real-world market dynamics, fo
 ---
 
 ## 🛠️ Tech Stack & Skills Demonstrated
-* **Tool:** Power BI Desktop
-* **Data Transformation & Modeling:** Data cleaning, custom schema structures, and measure development.
-* **DAX (Data Analysis Expressions):** Created clean, localized aggregation measures (`AVERAGE`) for metrics like Occupancy Rate, Median Booked Price, and Average Daily Rate.
+* **Data Extraction & Transformation (SQL / Google BigQuery):** Queried raw datasets, handled outliers, calculated medians, performed `JOINs` between listings and calendar tables, and standardized data structures to prepare a clean data model.
+* **Business Intelligence & Visualization:** Power BI Desktop.
+* **Data Modeling & DAX:** Created clean, localized aggregation measures (`AVERAGE`) for metrics like Occupancy Rate, Median Booked Price, and Average Daily Rate (ADR).
 * **Data Visualization & UX:** Applied professional formatting principles, high-contrast typography, custom card effects, and internationalized localization (English UI/UX).
 
 ---
@@ -39,7 +39,9 @@ Using Power BI, I built this dashboard to uncover real-world market dynamics, fo
 ```
 ---
 
+---
+
 ## Author
-**Igor Cunha**  
-*Transitioning Data Analyst | SQL, Python, Power BI*  
+**Igor Antunes**  
+*Transitioning Data Analyst | SQL, Python, Power BI, Tableau*  
 [LinkedIn Profile](https://www.linkedin.com/in/igor-antunesc/) | [GitHub Portfolio](https://github.com/igor-antunesc)
