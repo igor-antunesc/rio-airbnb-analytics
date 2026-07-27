@@ -36,7 +36,7 @@ Using Power BI, I built this dashboard to uncover real-world market dynamics, fo
 ├── 02_sazonalidade_completa.csv   # Seasonality and occupancy dataset
 ├── rio_airbnb_dashboard.pbix      # Power BI source file
 └── dashboard-preview.png          # Dashboard screenshot
-
+```
 ---
 
 ## Author
